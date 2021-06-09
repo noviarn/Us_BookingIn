@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookingIn</string>
+    <string name="new_user_signup">New User?<b>SignUp</b></string>
+    <string name="welcome">Welcome To Booking In</string>
+    <string name="Login">Login</string>
+    <string name="TakeImage">Take Image</string>
+    <string name="pickGalery">Pick Galery</string>
+    <string name="EditProfile">Edit Profile</string>
+</resources>
